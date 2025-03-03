@@ -31,11 +31,11 @@
 <a href="https://regexr.com/" target="_blank"  rel="noreferrer"><img src="https://skillicons.dev/icons?i=regex" width="40" alt="Regex" title="Regex"/></a>
 
 > ### Tools
-<a href="https://git-scm.com/" target="_blank"  rel="noreferrer"><img src="https://skillicons.dev/icons?i=npm" width="40" alt="Git" title="Npm"/></a>
+<a href="https://npmjs.com/" target="_blank"  rel="noreferrer"><img src="https://skillicons.dev/icons?i=npm" width="40" alt="Git" title="Npm"/></a>
 <a href="https://git-scm.com/" target="_blank"  rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" title="Git"/></a>
 <a href="https://www.figma.com/" target="_blank"  rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" width="40" alt="Figma" title="Figma"/></a>
-<a href="https://illustrator/" target="_blank"  rel="noreferrer"><img src="https://skillicons.dev/icons?i=illustrator" width="40" alt="illustrator" title="illustrator"/></a>
-<a href="https://illustrator/" target="_blank"  rel="noreferrer"><img src="https://skillicons.dev/icons?i=photoshop" width="40" alt="illustrator" title="illustrator"/></a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank"  rel="noreferrer"><img src="https://skillicons.dev/icons?i=illustrator" width="40" alt="illustrator" title="illustrator"/></a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"  rel="noreferrer"><img src="https://skillicons.dev/icons?i=photoshop" width="40" alt="photoshop" title="photoshop"/></a>
 </div>
 <hr>
             
